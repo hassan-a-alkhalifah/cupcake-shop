@@ -1,0 +1,19 @@
+body {
+  text-align: center;
+color: #adb855;
+background-image: url("https://media-api.xogrp.com/images/9041de2d-bb3b-4296-ad64-4b5f9f83c73a~rs_768.h");
+background-repeat: repeat-x;
+background-position: 135% 0%;
+}
+h4.flashy-1 {
+  color: #94f9f6;
+}
+h4.flashy-2 {
+  color: #d4aa44;
+}
+h4.flashy-3 {
+  color: #f6a3d1;
+}
+span {
+  font-style: italic;
+}
